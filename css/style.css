@@ -1,4 +1,34 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Yuri G
+* Created on: Feb 2023
 * This file contains the CSS for index.html
 */
+
+body {
+  background-color:whitesmoke;
+}
+
+h1 {
+  background-color:aquamarine;
+  color:white;
+  padding:40px;
+  text-align:center;
+}
+
+div {
+  color:black;
+  text-align: center;
+}
+
+img {
+  border: 5px solid #000;
+  border-radius: 4px;
+  padding: 1px;
+  width: 150px;
+}
+
+center {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
