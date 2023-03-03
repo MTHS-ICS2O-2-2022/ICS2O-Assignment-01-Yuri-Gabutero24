@@ -4,18 +4,18 @@
 */
 
 body {
-  background-color:whitesmoke;
+  background-color: whitesmoke;
 }
 
 h1 {
-  background-color:yellowgreen;
-  color:white;
+  background-color: yellowgreen;
+  color: white;
   padding:40px;
   text-align:center;
 }
 
 div {
-  color:black;
+  color: black;
   text-align: center;
 }
 
@@ -27,7 +27,7 @@ img {
 }
 
 center {
-  display:block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
